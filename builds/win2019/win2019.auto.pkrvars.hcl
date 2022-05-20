@@ -8,7 +8,7 @@
 
 # ISO Settings
 os_iso_file                     = "en-us_windows_server_2019_updated_aug_2021_x64_dvd_a6431a28.iso"
-os_iso_path                     = "os/microsoft/server/2019"
+os_iso_path                     = "ISO"
 
 # OS Meta Data
 vm_os_family                    = "Windows"
